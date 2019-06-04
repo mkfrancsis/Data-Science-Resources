@@ -1,6 +1,6 @@
 <p align="center"><img width="90%" src="logo/thinkful_logo_black.png" /></p>
 
-<h1 align="center">Data Science Resources</h1>
+<h1 id="Data-Science-Resources" align="center">Data Science Resources</h1>
 
 
 <h3 align="center">A collection of Challenges, Capstones by past students for reference and additional resources</h3>
@@ -96,7 +96,7 @@ If you are a student and if you would like to get your projects added or if you 
 
 
 <h2 align="center">:hatching_chick: Data and Analysis</h2>
-<p align="right"><a href="#DataScienceResources"><sup>▴ Back to top</sup></a></p>
+<p align="right"><a href="#Data-Science-Resources"><sup>▴ Back to top</sup></a></p>
 
 <h2>What is Data Science?</h2>
 
@@ -142,7 +142,7 @@ If you are a student and if you would like to get your projects added or if you 
 
 
 <h2 align="center">:hatched_chick: Supervised Learning</h2>
-<p align="right"><a href="#DataScienceResources"><sup>▴ Back to top</sup></a></p>
+<p align="right"><a href="#Data-Science-Resources"><sup>▴ Back to top</sup></a></p>
 
 <h2>Model Preparation</h2>
 
@@ -269,7 +269,7 @@ If you are a student and if you would like to get your projects added or if you 
 
 
 <h2 align="center">:baby_chick: Unsupervised Learning</h2>
-<p align="right"><a href="#DataScienceResources"><sup>▴ Back to top</sup></a></p>
+<p align="right"><a href="#Data-Science-Resources"><sup>▴ Back to top</sup></a></p>
 
 <h2>Overview</h2>
 - Why do we do this?
@@ -315,7 +315,7 @@ If you are a student and if you would like to get your projects added or if you 
 
 
 <h2 align="center">:baby_chick: Other Topics</h2>
-<p align="right"><a href="#DataScienceResources"><sup>▴ Back to top</sup></a></p>
+<p align="right"><a href="#Data-Science-Resources"><sup>▴ Back to top</sup></a></p>
 
 <h2>Algorithms and Data Structures</h2>
 
@@ -379,7 +379,7 @@ If you are a student and if you would like to get your projects added or if you 
 
 
 <h2 align="center">:chicken: Specialization</h2>
-<p align="right"><a href="#DataScienceResources"><sup>▴ Back to top</sup></a></p>
+<p align="right"><a href="#Data-Science-Resources"><sup>▴ Back to top</sup></a></p>
 
 <h2>Time Series Analysis</h2>
 
@@ -424,25 +424,20 @@ If you are a student and if you would like to get your projects added or if you 
 
 <h2>Natural Language Processing</h2>
 
-<h3></h3>
+<h3>Basics of language parsing</h3>
 
-<h3></h3>
+<h3>As supervised problem</h3>
 
-<h3></h3>
+<h3>As Unsupervised problem</h3>
 
-<h3></h3>
+<h3>Word2Vec</h3>
 
-<h3></h3>
+<h3>Sense2Vec</h3>
 
-<h3></h3>
+<h3>Text Summarization</h3>
 
-<h3></h3>
+<h3>Advanced Text Extraction</h3>
 
-<h3></h3>
-
-<h3></h3>
-
-<h3></h3>
 
 
 <h2>Social Sciences</h2>
@@ -492,7 +487,7 @@ If you are a student and if you would like to get your projects added or if you 
 
 
 <h2 align="center">:rooster: Final Capstone</h2>
-<p align="right"><a href="#DataScienceResources"><sup>▴ Back to top</sup></a></p>
+<p align="right"><a href="#Data-Science-Resources"><sup>▴ Back to top</sup></a></p>
 
 <h3>Datasets</h3>
 
@@ -501,7 +496,7 @@ If you are a student and if you would like to get your projects added or if you 
 
 
 <h2 align="center">:sunglasses: Contributors</h2>
-<p align="right"><a href="#DataScienceResources"><sup>▴ Back to top</sup></a></p>
+<p align="right"><a href="#Data-Science-Resources"><sup>▴ Back to top</sup></a></p>
 
 <h3>Mukesh Mithrakumar</h3>
 If you would like to contribute, please feel free to make a pull request.
@@ -523,4 +518,4 @@ If you have any questions, want to just add your projects without pull requests,
 
 
 <h2 align="center">:speech_balloon: FAQ</h2>
-<p align="right"><a href="#DataScienceResources"><sup>▴ Back to top</sup></a></p>
+<p align="right"><a href="#Data-Science-Resources"><sup>▴ Back to top</sup></a></p>
