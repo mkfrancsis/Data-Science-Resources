@@ -36,7 +36,6 @@
     <a href="#speech_balloon-faq">FAQ</a> •
 </p>
 
-<h6 align="center">Made by Mukesh Mithrakumar • :milky_way: <a href="https://mukeshmithrakumar.com">https://mukeshmithrakumar.com</a></h6>
 
 <h2 align="center">Overview</h2>
 
@@ -498,9 +497,6 @@ If you are a student and if you would like to get your projects added or if you 
 <h3>Datasets</h3>
 
 <h3>Capstone Ideas</h3>
-
-
-<h3></h3>
 
 
 
