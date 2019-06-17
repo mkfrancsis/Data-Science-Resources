@@ -56,27 +56,52 @@ If you are a student and if you would like to get your projects added or if you 
 
 <h2>Programming in Python</h2>
 
-- Python Standard Encodings: https://docs.python.org/2.4/lib/standard-encodings.html
+<h4>Python</h4>
 
-- Basic Linux Navigation and File Management: https://www.digitalocean.com/community/tutorials/basic-linux-navigation-and-file-management
+- [The Hitchhiker’s Guide to Python](https://docs.python-guide.org/)
 
-- The entire Pro Git book: https://git-scm.com/book/en/v2
+- [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/)
 
-- Learning Bash Shell: http://linuxcommand.org/lc3_learning_the_shell.php
+- [PyCon 2018 Talk Videos](https://www.reddit.com/r/Python/comments/8j4ep6/pycon_2018_talk_videos/)
 
-- Resources to learn Git: http://try.github.io/
+- [36 Amazing Python Open Source Projects (v.2019)](https://medium.mybridge.co/36-amazing-python-open-source-projects-v-2019-2fe058d79450)
+
+- [Python Standard Encodings](https://docs.python.org/2.4/lib/standard-encodings.html)
+
+- [Translating math into code](http://matt.might.net/articles/discrete-math-and-code/?utm_medium=email&utm_source=topic+optin&utm_campaign=awareness&utm_content=20190605+data+nl&mkt_tok=eyJpIjoiT1dVeU5UZ3daamszTnpjMSIsInQiOiJwYWJTMmZjSGhPem02a1FmY0g3M29iRHJjNjNySnQzYWtMS3dKVHZnZjFQYTIranFnUDhqQzV3MGpUZERzYnlIcXMrOUxiOUd1Q21tbWdWc0prYXRpdUZnTWlRaFdkNmRtTkIzanRySmJ0WWpJMkcwckZCa0diKzlubWtic3JUYyJ9)
+
+- [Invent with Python Blog](https://inventwithpython.com/blog/)
+
+
+
+<h4>Command Line</h4>
+
+- [Linux, Bash, Git and Python tutorials](https://code.snipcademy.com/tutorials)
+
+- [Introductory Linux, Bash, Git and Python tutorials](https://ryanstutorials.net/)
+
+- [Basic Linux Navigation and File Management](https://www.digitalocean.com/community/tutorials/basic-linux-navigation-and-file-management)
+
+- [Learning Bash Shell](http://linuxcommand.org/lc3_learning_the_shell.php)
+
+
+<h4>Git</h4>
+
+- [The entire Pro Git book](https://git-scm.com/book/en/v2)
+
+- [Resources to learn Git](http://try.github.io/)
 
 
 
 <h3>Functions, Strings, and Numbers</h3>
 
-- Map, Filter and Reduce: http://book.pythontips.com/en/latest/map_filter.html
+- [Map, Filter and Reduce](http://book.pythontips.com/en/latest/map_filter.html)
 
-- A Guide to Python Itertools: https://medium.com/@jasonrigden/a-guide-to-python-itertools-82e5a306cdf8
+- [A Guide to Python Itertools](https://medium.com/@jasonrigden/a-guide-to-python-itertools-82e5a306cdf8)
 
-- Itertools in Python 3, By Example: https://realpython.com/python-itertools/
+- [Itertools in Python 3, By Example](https://realpython.com/python-itertools/)
 
-- Precision Handling in Python: https://www.geeksforgeeks.org/precision-handling-python/
+- [Precision Handling in Python](https://www.geeksforgeeks.org/precision-handling-python/)
 
 
 
@@ -88,11 +113,11 @@ If you are a student and if you would like to get your projects added or if you 
 
 <h3>Lists, Dictionaries, Sets and Tuples</h3>
 
-- Adding new keys to Dictionary: https://stackoverflow.com/questions/1024847/add-new-keys-to-a-dictionary
+- [Adding new keys to Dictionary](https://stackoverflow.com/questions/1024847/add-new-keys-to-a-dictionary)
 
-- Flattening JSON objects in Python: https://towardsdatascience.com/flattening-json-objects-in-python-f5343c794b10
+- [Flattening JSON objects in Python](https://towardsdatascience.com/flattening-json-objects-in-python-f5343c794b10)
 
-- Tutorial for parsing JSON and creating SQLite3 database in Python: http://www.prelc.si/koleznik/tutorial-for-parsing-json-and-creating-sqlite3-database-in-python/
+- [Tutorial for parsing JSON and creating SQLite3 database in Python](http://www.prelc.si/koleznik/tutorial-for-parsing-json-and-creating-sqlite3-database-in-python/)
 
 
 
@@ -114,35 +139,37 @@ If you are a student and if you would like to get your projects added or if you 
 
 <h4>Pandas</h4>
 
-- Pandas Cheat Sheet: https://www.dataquest.io/blog/pandas-cheat-sheet/
+- [Pandas Cheat Sheet](https://www.dataquest.io/blog/pandas-cheat-sheet/)
 
-- Overview of Pandas Data Types: https://pbpython.com/pandas_dtypes.html
+- [Overview of Pandas Data Types](https://pbpython.com/pandas_dtypes.html)
 
-- Loading Massive Files in Pandas: https://cmdlinetips.com/2018/01/how-to-load-a-massive-file-as-small-chunks-in-pandas/
+- [Loading Massive Files in Pandas](https://cmdlinetips.com/2018/01/how-to-load-a-massive-file-as-small-chunks-in-pandas/)
 
-- Combining Data Tables with Pandas: https://www.dataquest.io/blog/pandas-concatenation-tutorial/
+- [Working with Large Data Sets using Pandas and JSON in Python](https://www.dataquest.io/blog/python-json-tutorial/)
 
-- Changing Data Type for One or More Columns in Pandas: https://cmdlinetips.com/2018/09/how-to-change-data-type-for-one-or-more-columns-in-pandas-dataframe/
+- [Combining Data Tables with Pandas](https://www.dataquest.io/blog/pandas-concatenation-tutorial/)
 
-- Replace all blank/empty cells in a pandas dataframe with NaNs: https://www.quora.com/How-do-I-replace-all-blank-empty-cells-in-a-pandas-dataframe-with-NaNs
+- [Changing Data Type for One or More Columns in Pandas](https://cmdlinetips.com/2018/09/how-to-change-data-type-for-one-or-more-columns-in-pandas-dataframe/)
 
-- Change the data type of more than one column at once: https://www.geeksforgeeks.org/python-pandas-dataframe-astype/
+- [Replace all blank/empty cells in a pandas dataframe with NaNs](https://www.quora.com/How-do-I-replace-all-blank-empty-cells-in-a-pandas-dataframe-with-NaNs)
 
-- 19 Essential Snippets in Pandas: https://jeffdelaney.me/blog/useful-snippets-in-pandas/
+- [Change the data type of more than one column at once](https://www.geeksforgeeks.org/python-pandas-dataframe-astype/)
 
-- Adding new column to existing DataFrame in pandas: https://stackoverflow.com/questions/12555323/adding-new-column-to-existing-dataframe-in-python-pandas
+- [19 Essential Snippets in Pandas](https://jeffdelaney.me/blog/useful-snippets-in-pandas/)
 
-- Apply a function to every row in a pandas dataframe: http://jonathansoma.com/lede/foundations/classes/pandas%20columns%20and%20functions/apply-a-function-to-every-row-in-a-pandas-dataframe/
+- [Adding new column to existing DataFrame in pandas](https://stackoverflow.com/questions/12555323/adding-new-column-to-existing-dataframe-in-python-pandas)
 
-- Aggregation and Grouping: https://data36.com/pandas-tutorial-2-aggregation-and-grouping/
+- [Apply a function to every row in a pandas dataframe](http://jonathansoma.com/lede/foundations/classes/pandas%20columns%20and%20functions/apply-a-function-to-every-row-in-a-pandas-dataframe/)
 
-- Strip Space in column of pandas dataframe: http://www.datasciencemadesimple.com/strip-space-column-pandas-dataframe-leading-trailing-2/
+- [Aggregation and Grouping](https://data36.com/pandas-tutorial-2-aggregation-and-grouping/)
 
-- Convert number strings with commas in pandas DataFrame to float: https://stackoverflow.com/questions/22137723/convert-number-strings-with-commas-in-pandas-dataframe-to-float
+- [Strip Space in column of pandas dataframe](http://www.datasciencemadesimple.com/strip-space-column-pandas-dataframe-leading-trailing-2/)
 
-- Lookup a value in different dataframe and assign a value: https://stackoverflow.com/questions/42419268/pandas-dataframe-lookup-a-value-in-different-dataframe-and-assign-a-value/42419338
+- [Convert number strings with commas in pandas DataFrame to float](https://stackoverflow.com/questions/22137723/convert-number-strings-with-commas-in-pandas-dataframe-to-float)
 
-- Creating Pandas DataFrames from Lists and Dictionaries: https://pbpython.com/pandas-list-dict.html
+- [Lookup a value in different dataframe and assign a value](https://stackoverflow.com/questions/42419268/pandas-dataframe-lookup-a-value-in-different-dataframe-and-assign-a-value/42419338)
+
+- [Creating Pandas DataFrames from Lists and Dictionaries](https://pbpython.com/pandas-list-dict.html)
 
 
 
@@ -150,13 +177,14 @@ If you are a student and if you would like to get your projects added or if you 
 ***
 
 <h3>Plotting Basics</h3>
-- Choosing color palettes: https://seaborn.pydata.org/tutorial/color_palettes.html
 
-- Building structured multi-plot grids: https://seaborn.pydata.org/tutorial/axis_grids.html
+- [Choosing color palettes](https://seaborn.pydata.org/tutorial/color_palettes.html)
 
-- How to make beautiful data visualizations in Python with matplotlib: http://www.randalolson.com/2014/06/28/how-to-make-beautiful-data-visualizations-in-python-with-matplotlib/
+- [Building structured multi-plot grids](https://seaborn.pydata.org/tutorial/axis_grids.html)
 
-- Three-Dimensional Plotting in Matplotlib: https://jakevdp.github.io/PythonDataScienceHandbook/04.12-three-dimensional-plotting.html
+- [How to make beautiful data visualizations in Python with matplotlib](http://www.randalolson.com/2014/06/28/how-to-make-beautiful-data-visualizations-in-python-with-matplotlib/)
+
+- [Three-Dimensional Plotting in Matplotlib](https://jakevdp.github.io/PythonDataScienceHandbook/04.12-three-dimensional-plotting.html)
 
 
 
@@ -167,13 +195,21 @@ If you are a student and if you would like to get your projects added or if you 
 
 <h3>Basics of Statistics</h3>
 
+- [Duke Stats Course](http://people.duke.edu/~ccc14/sta-663-2017/)
+
+- [Penn State Stat 501](https://newonlinecourses.science.psu.edu/stat501/node/2/)
+
+
+
 
 ***
 
 
 <h3>Basics of Probability</h3>
 
-- Frequentism and Bayesianism: A Practical Introduction: http://jakevdp.github.io/blog/2014/03/11/frequentism-and-bayesianism-a-practical-intro/
+- [Frequentism and Bayesianism: A Practical Introduction](http://jakevdp.github.io/blog/2014/03/11/frequentism-and-bayesianism-a-practical-intro/)
+
+- [Compendium of Common Probability Distributions](https://www.causascientia.org/math_stat/Dists/Compendium.pdf)
 
 
 ***
@@ -202,9 +238,9 @@ If you are a student and if you would like to get your projects added or if you 
 
 <h2>What is Data Science?</h2>
 
-- How to share data with a statistician: https://github.com/adamwlev/datasharing
+- [How to share data with a statistician](https://github.com/adamwlev/datasharing)
 
-- Data sources: https://github.com/Thinkful-Ed/data-201-resources/blob/master/data-sources.md
+- [Data sources](https://github.com/Thinkful-Ed/data-201-resources/blob/master/data-sources.md)
 
 
 
@@ -213,7 +249,7 @@ If you are a student and if you would like to get your projects added or if you 
 
 <h3>SQL Basics</h3>
 
-- 17 Practical psql Commands: http://www.postgresqltutorial.com/psql-commands/
+- [17 Practical psql Commands](http://www.postgresqltutorial.com/psql-commands/)
 
 -
 
@@ -244,9 +280,11 @@ If you are a student and if you would like to get your projects added or if you 
 
 <h3>A/B Testing</h3>
 
-- A primer on A/B testing: https://uxdesign.cc/a-primer-on-a-b-testing-1bb48c69a5c3
+- [A primer on A/B testing](https://uxdesign.cc/a-primer-on-a-b-testing-1bb48c69a5c3)
 
-- How to Use Bayesian Inference In A/B Testing: https://www.everymundo.com/abtesting-bayesian-inference/
+- [How to Use Bayesian Inference In A/B Testing](https://www.everymundo.com/abtesting-bayesian-inference/)
+
+- [How to implement common statistical significance tests and find the p value?](https://www.machinelearningplus.com/statistics/statistical-significance-tests-r/)
 
 
 ***
@@ -271,11 +309,11 @@ If you are a student and if you would like to get your projects added or if you 
 
 <h3>A/B testing and T-test</h3>
 
-- Determining Sample Size for Mobile A/B Testing: https://splitmetrics.com/blog/mobile-a-b-testing-sample-size/
+- [Determining Sample Size for Mobile A/B Testing](https://splitmetrics.com/blog/mobile-a-b-testing-sample-size/)
 
-- Significance testing and sample size: http://danielnee.com/tag/t-test/
+- [Significance testing and sample size](http://danielnee.com/tag/t-test/)
 
-- What statistical test should be used for an A/B test on conversion rates?: https://www.quora.com/What-statistical-test-should-be-used-for-an-A-B-test-on-conversion-rates
+- [What statistical test should be used for an A/B test on conversion rates?](https://www.quora.com/What-statistical-test-should-be-used-for-an-A-B-test-on-conversion-rates)
 
 
 
@@ -295,6 +333,11 @@ If you are a student and if you would like to get your projects added or if you 
 
 <h3>Interviews</h3>
 
+- [What I learned from interviewing at multiple AI companies and start-ups](https://blog.usejournal.com/what-i-learned-from-interviewing-at-multiple-ai-companies-and-start-ups-a9620415e4cc)
+
+
+
+
 - Interview tips
 - Interview preps
 
@@ -307,6 +350,12 @@ If you are a student and if you would like to get your projects added or if you 
 
 <h2 align="center">:hatched_chick: Supervised Learning</h2>
 <p align="right"><a href="#Data-Science-Resources"><sup>▴ Back to top</sup></a></p>
+
+- [A Course in Machine Learning](http://ciml.info/)
+
+- [Machine Learning Cheatsheet](https://ml-cheatsheet.readthedocs.io/en/latest/index.html)
+
+
 
 <h2>Model Preparation</h2>
 
@@ -322,6 +371,13 @@ If you are a student and if you would like to get your projects added or if you 
 ***
 
 <h3>Data cleaning</h3>
+
+- [Best-Practice Recommendations for Defining, Identifying, and Handling Outliers](http://www.hermanaguinis.com/ORMoutliers.pdf)
+
+- [Fifty Ways to Fix your Data](https://statswithcats.wordpress.com/2010/11/21/fifty-ways-to-fix-your-data/)
+
+
+
 - Variable types
 - Missing values
 - Outliers
@@ -337,6 +393,10 @@ If you are a student and if you would like to get your projects added or if you 
 
 
 <h3>Feature Engineering</h3>
+
+- [An Introduction to Variable and Feature Selection](http://jmlr.csail.mit.edu/papers/volume3/guyon03a/guyon03a.pdf)
+
+
 - From variables to features
 - Dimensionality and PCA
 
@@ -354,14 +414,14 @@ If you are a student and if you would like to get your projects added or if you 
 
 <h3>Algorithms Basics</h3>
 
-- Building A Logistic Regression in Python, Step by Step: https://towardsdatascience.com/building-a-logistic-regression-in-python-step-by-step-becd4d56c9c8
+- [Building A Logistic Regression in Python, Step by Step](https://towardsdatascience.com/building-a-logistic-regression-in-python-step-by-step-becd4d56c9c8)
 
 
 ***
 
 <h3>Naive Bayes</h3>
 
-- An Intuitive (and Short) Explanation of Bayes’ Theorem: https://betterexplained.com/articles/an-intuitive-and-short-explanation-of-bayes-theorem/
+- [An Intuitive (and Short) Explanation of Bayes’ Theorem](https://betterexplained.com/articles/an-intuitive-and-short-explanation-of-bayes-theorem/)
 
 
 
@@ -376,11 +436,11 @@ If you are a student and if you would like to get your projects added or if you 
 
 
 <h3>Accuracy and error types</h3>
-- Writing and Plotting a confusion matrix in Python: https://stackoverflow.com/questions/2148543/how-to-write-a-confusion-matrix-in-python
+- [Writing and Plotting a confusion matrix in Python](https://stackoverflow.com/questions/2148543/how-to-write-a-confusion-matrix-in-python)
 
-- Confusion Matrix in Machine Learning: https://www.geeksforgeeks.org/confusion-matrix-machine-learning/
+- [Confusion Matrix in Machine Learning](https://www.geeksforgeeks.org/confusion-matrix-machine-learning/)
 
-- Demystifying ‘Confusion Matrix’ Confusion: https://towardsdatascience.com/demystifying-confusion-matrix-confusion-9e82201592fd
+- [Demystifying ‘Confusion Matrix’ Confusion](https://towardsdatascience.com/demystifying-confusion-matrix-confusion-9e82201592fd)
 
 
 
@@ -411,9 +471,9 @@ If you are a student and if you would like to get your projects added or if you 
 
 <h2>Regression</h2>
 
-- Bayesian Linear Regression in Python: https://towardsdatascience.com/bayesian-linear-regression-in-python-using-machine-learning-to-predict-student-grades-part-1-7d0ad817fca5
+- [Bayesian Linear Regression in Python](https://towardsdatascience.com/bayesian-linear-regression-in-python-using-machine-learning-to-predict-student-grades-part-1-7d0ad817fca5)
 
-- What is the difference between Ridge Regression, the LASSO, and ElasticNet?: https://blog.alexlenail.me/what-is-the-difference-between-ridge-regression-the-lasso-and-elasticnet-ec19c71c9028
+- [What is the difference between Ridge Regression, the LASSO, and ElasticNet?](https://blog.alexlenail.me/what-is-the-difference-between-ridge-regression-the-lasso-and-elasticnet-ec19c71c9028)
 
 
 
@@ -491,7 +551,7 @@ If you are a student and if you would like to get your projects added or if you 
 
 <h3>Random Forest</h3>
 
-- How to Visualize a Decision Tree from a Random Forest: https://towardsdatascience.com/how-to-visualize-a-decision-tree-from-a-random-forest-in-python-using-scikit-learn-38ad2d75f21c
+- [How to Visualize a Decision Tree from a Random Forest](https://towardsdatascience.com/how-to-visualize-a-decision-tree-from-a-random-forest-in-python-using-scikit-learn-38ad2d75f21c)
 
 
 
@@ -517,9 +577,9 @@ If you are a student and if you would like to get your projects added or if you 
 
 <h3>Linear Support vector machines</h3>
 
-- Support Vector Machine: https://towardsdatascience.com/support-vector-machine-introduction-to-machine-learning-algorithms-934a444fca47
+- [Support Vector Machine](https://towardsdatascience.com/support-vector-machine-introduction-to-machine-learning-algorithms-934a444fca47)
 
-- Understanding the mathematics behind Support Vector Machines: https://shuzhanfan.github.io/2018/05/understanding-mathematics-behind-support-vector-machines/
+- [Understanding the mathematics behind Support Vector Machines](https://shuzhanfan.github.io/2018/05/understanding-mathematics-behind-support-vector-machines/)
 
 
 
@@ -527,7 +587,7 @@ If you are a student and if you would like to get your projects added or if you 
 
 <h3>Kernel Trick</h3>
 
-- Kernel Methods and Support Vector Machines de-Mystified: http://www.win-vector.com/blog/2011/10/kernel-methods-and-support-vector-machines-de-mystified/
+- [Kernel Methods and Support Vector Machines de-Mystified](http://www.win-vector.com/blog/2011/10/kernel-methods-and-support-vector-machines-de-mystified/)
 
 
 ***
@@ -552,7 +612,8 @@ If you are a student and if you would like to get your projects added or if you 
 
 <h3>Gradient Boosting</h3>
 
-- Parameter tuning for Gradient Boosting: https://medium.com/all-things-ai/in-depth-parameter-tuning-for-gradient-boosting-3363992e9bae
+- [Parameter tuning for Gradient Boosting](https://medium.com/all-things-ai/in-depth-parameter-tuning-for-gradient-boosting-3363992e9bae)
+
 
 
 
@@ -570,10 +631,41 @@ If you are a student and if you would like to get your projects added or if you 
 
 
 <h3>Professional Branding</h3>
-- LinkedIn Tips
-- Resume
-- Github
-- Cover Letters
+
+<h4>AI Blogs</h4>
+
+- [Google AI Blog](https://ai.googleblog.com/)
+
+- [Open AI Blog](https://openai.com/blog/)
+
+- [NVIDIA Blog](https://blogs.nvidia.com/)
+
+- [Microsoft Machine Learning Blog](https://blogs.technet.microsoft.com/machinelearning/)
+
+- [Baidu Research Blog](http://research.baidu.com/)
+
+- [Berkeley AI Research Blog](https://bair.berkeley.edu/blog/)
+
+- [Uber AI Blog](https://eng.uber.com/tag/uber-ai-labs/)
+
+- [The Netflix Tech Blog](https://medium.com/netflix-techblog)
+
+- [Airbnb Engineering and Data Science](https://medium.com/airbnb-engineering)
+
+- [Apple Machine Learning Journal](https://machinelearning.apple.com/)
+
+
+<h4>LinkedIn Tips</h4>
+
+
+<h4>Resume</h4>
+
+
+<h4>Github</h4>
+
+
+<h4>Cover Letters</h4>
+
 
 
 ***
@@ -614,6 +706,7 @@ If you are a student and if you would like to get your projects added or if you 
 
 <h3>Evaluating clusters</h3>
 
+- [Three Popular Clustering Methods and When to Use Each](https://medium.com/predict/three-popular-clustering-methods-and-when-to-use-each-4227c80ba2b6?mkt_tok=eyJpIjoiTlRJMk16VmlOV1JtWkRWaCIsInQiOiI0c2NTalVJejExY3FPcEFsdVFyY0poXC9hd1JXeWtEZ1FiQU92WWxhSFwvcVpCZzh6dVdYTENUUlE1Q3BZRFVYSVFDaXc3R0J3VXoyT25IU3dPaEZEV0tPWjJMeEx1Smp2MDFKOWxGUW92a0xyYXNJV3YxTmlHeldpcXBUUE5WajBhIn0%3D)
 
 ***
 
@@ -635,6 +728,10 @@ If you are a student and if you would like to get your projects added or if you 
 ***
 
 <h3>What is a neural network?</h3>
+
+- [Neural Networks Tutorial](https://adventuresinmachinelearning.com/neural-networks-tutorial/)
+
+- [Image classifier using convolutional neural network](https://cv-tricks.com/tensorflow-tutorial/training-convolutional-neural-network-for-image-classification/)
 
 
 ***
@@ -674,17 +771,9 @@ If you are a student and if you would like to get your projects added or if you 
 
 <h2>Algorithms and Data Structures</h2>
 
+- [A Gentle Introduction to Algorithm Complexity Analysis](http://discrete.gr/complexity/)
 
 
-
-
-
-
-
-<h3>Algorithms and Data Structures</h3>
-
-
-***
 
 <h3>Sort</h3>
 
@@ -706,12 +795,12 @@ If you are a student and if you would like to get your projects added or if you 
 
 <h2>Web scraping</h2>
 
-- Downloading the HTML files and Converting HTML to CSV: https://bigishdata.com/2016/03/05/gather-all-the-pga-tour-stats/
+- [Downloading the HTML files and Converting HTML to CSV](https://bigishdata.com/2016/03/05/gather-all-the-pga-tour-stats/)
 
 
 <h3>What is scraping?</h3>
 
-- Scraping Golf Data Example: https://github.com/zachwill/golf/blob/master/pga.py
+- [Scraping Golf Data Example](https://github.com/zachwill/golf/blob/master/pga.py)
 
 ***
 
@@ -799,7 +888,9 @@ If you are a student and if you would like to get your projects added or if you 
 
 <h2>Time Series Analysis</h2>
 
-- What Is Time Series Forecasting?: https://machinelearningmastery.com/time-series-forecasting/
+- [What Is Time Series Forecasting?](https://machinelearningmastery.com/time-series-forecasting/)
+
+- [Time Series Analysis in Python](https://www.machinelearningplus.com/time-series/time-series-analysis-python/)
 
 
 <h3>Intro to Time</h3>
@@ -819,6 +910,8 @@ If you are a student and if you would like to get your projects added or if you 
 ***
 
 <h3>ARIMA modeling</h3>
+
+- [ARIMA Model – Complete Guide to Time Series Forecasting in Python](https://www.machinelearningplus.com/time-series/arima-model-time-series-forecasting-python/)
 
 
 ***
@@ -888,11 +981,11 @@ If you are a student and if you would like to get your projects added or if you 
 
 <h2>Natural Language Processing</h2>
 
-- What is sentiment analysis?: https://www.kovcomp.co.uk/wordstat/Sentiment.html
+- [What is sentiment analysis?](https://www.kovcomp.co.uk/wordstat/Sentiment.html)
 
-- Opinion Mining, Sentiment Analysis, and Opinion Spam Detection: https://www.cs.uic.edu/~liub/FBS/sentiment-analysis.html#datasets
+- [Opinion Mining, Sentiment Analysis, and Opinion Spam Detection](https://www.cs.uic.edu/~liub/FBS/sentiment-analysis.html#datasets)
 
-- Understanding what is behind Sentiment Analysis: https://building.lang.ai/understanding-what-is-behind-sentiment-analysis-part-i-eaf1bcb43d2d
+- [Understanding what is behind Sentiment Analysis](https://building.lang.ai/understanding-what-is-behind-sentiment-analysis-part-i-eaf1bcb43d2d)
 
 
 <h3>Basics of language parsing</h3>
@@ -909,7 +1002,7 @@ If you are a student and if you would like to get your projects added or if you 
 
 <h3>Word2Vec</h3>
 
-- How to use Machine Learning for Sentiment Analysis with Word Embeddings: https://sophilabs.co/blog/machine-learning-for-sentiment-analysis
+- [How to use Machine Learning for Sentiment Analysis with Word Embeddings](https://sophilabs.co/blog/machine-learning-for-sentiment-analysis)
 
 
 
@@ -1018,6 +1111,9 @@ If you are a student and if you would like to get your projects added or if you 
 
 <h2>Big Data with Spark</h2>
 
+- [The Top Mistakes Developers Make When Using Python for Big Data Analytics](https://www.airpair.com/python/posts/top-mistakes-python-big-data-analytics)
+
+
 <h3>Spark for big data</h3>
 
 ***
@@ -1051,13 +1147,13 @@ If you are a student and if you would like to get your projects added or if you 
 
 <h3>Capstone Ideas</h3>
 
-- Face recognition with OpenCV, Python, and deep learning: https://www.pyimagesearch.com/2018/06/18/face-recognition-with-opencv-python-and-deep-learning/
+- [Face recognition with OpenCV, Python, and deep learning](https://www.pyimagesearch.com/2018/06/18/face-recognition-with-opencv-python-and-deep-learning/)
 
-- Traditional Face Detection With Python: https://realpython.com/traditional-face-detection-python/
+- [Traditional Face Detection With Python](https://realpython.com/traditional-face-detection-python/)
 
-- Machine Learning Model for Predicting Click-Through in Hotel Online Ranking: https://towardsdatascience.com/machine-learning-model-for-predicting-click-through-in-hotel-online-ranking-d55fc18c8516
+- [Machine Learning Model for Predicting Click-Through in Hotel Online Ranking](https://towardsdatascience.com/machine-learning-model-for-predicting-click-through-in-hotel-online-ranking-d55fc18c8516)
 
-- Solving the Kaggle Telco Customer Churn challenge in minutes using AuDaS: https://towardsdatascience.com/solving-the-kaggle-telco-customer-churn-challenge-in-minutes-with-audas-2273fed19961
+- [Solving the Kaggle Telco Customer Churn challenge in minutes using AuDaS](https://towardsdatascience.com/solving-the-kaggle-telco-customer-churn-challenge-in-minutes-with-audas-2273fed19961)
 
 
 ***
