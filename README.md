@@ -1,4 +1,4 @@
-<p align="center"><img width="90%" src="logo/thinkful_logo_black.png" /></p>
+<p align="center"><img width="90%" src="img/thinkful_logo_black.png" /></p>
 
 <h1 id="Data-Science-Resources" align="center">Data Science Resources</h1>
 
@@ -56,7 +56,7 @@ If you are a student and if you would like to get your projects added or if you 
 
 <h2>Programming in Python</h2>
 
-<h4>Python</h4>
+<h4>Python General</h4>
 
 - [The Hitchhiker’s Guide to Python](https://docs.python-guide.org/)
 
@@ -72,6 +72,7 @@ If you are a student and if you would like to get your projects added or if you 
 
 - [Invent with Python Blog](https://inventwithpython.com/blog/)
 
+- [Real Python Tutorials](https://realpython.com/)
 
 
 <h4>Command Line</h4>
@@ -84,6 +85,8 @@ If you are a student and if you would like to get your projects added or if you 
 
 - [Learning Bash Shell](http://linuxcommand.org/lc3_learning_the_shell.php)
 
+- [How to Build Command Line Interfaces in Python With argparse](https://realpython.com/command-line-interfaces-python-argparse/)
+
 
 <h4>Git</h4>
 
@@ -91,11 +94,48 @@ If you are a student and if you would like to get your projects added or if you 
 
 - [Resources to learn Git](http://try.github.io/)
 
+- [Advanced Git Tips for Python Developers](https://realpython.com/advanced-git-for-pythonistas/)
+
+
+
+<h4>Python Extras</h4>
+
+- [Python Logging: A Stroll Through the Source Code](https://realpython.com/python-logging-source-code/)
+
+- [Unicode & Character Encodings in Python](https://realpython.com/python-encodings-guide/)
+
+- [Three Ways of Storing and Accessing Lots of Images in Python](https://realpython.com/storing-images-in-python/)
+
+- [Python KeyError Exceptions and How to Handle Them](https://realpython.com/python-keyerror/)
+
+- [A Beginner’s Guide to the Python time Module](https://realpython.com/python-time-module/)
+
+- [How to Run Your Python Scripts](https://realpython.com/run-python-scripts/)
+
+- [Python "for" Loops (Definite Iteration)](https://realpython.com/python-for-loop/)
+
+- [Working With Files in Python](https://realpython.com/working-with-files-in-python/)
+
+- [Python "while" Loops (Indefinite Iteration)](https://realpython.com/python-while-loop/)
+
+- [Getting Started With Testing in Python](https://realpython.com/python-testing/)
+
+- [Logging in Python](https://realpython.com/python-logging/)
+
+- [Reading and Writing CSV Files in Python](https://realpython.com/python-csv/)
+
+- [Conditional Statements in Python](https://realpython.com/python-conditional-statements/)
+
+
+***
+
 
 
 <h3>Functions, Strings, and Numbers</h3>
 
 - [Map, Filter and Reduce](http://book.pythontips.com/en/latest/map_filter.html)
+
+- [How to Use Python lambda Functions](https://realpython.com/python-lambda/)
 
 - [A Guide to Python Itertools](https://medium.com/@jasonrigden/a-guide-to-python-itertools-82e5a306cdf8)
 
@@ -103,13 +143,11 @@ If you are a student and if you would like to get your projects added or if you 
 
 - [Precision Handling in Python](https://www.geeksforgeeks.org/precision-handling-python/)
 
+- [Basic Input, Output, and String Formatting in Python](https://realpython.com/python-input-output/)
 
 
 ***
 
-<h3>Application Logic</h3>
-
-***
 
 <h3>Lists, Dictionaries, Sets and Tuples</h3>
 
@@ -119,7 +157,13 @@ If you are a student and if you would like to get your projects added or if you 
 
 - [Tutorial for parsing JSON and creating SQLite3 database in Python](http://www.prelc.si/koleznik/tutorial-for-parsing-json-and-creating-sqlite3-database-in-python/)
 
+- [How to Iterate Through a Dictionary in Python](https://realpython.com/iterate-through-dictionary-python/)
 
+- [Sets in Python](https://realpython.com/python-sets/)
+
+- [Dictionaries in Python](https://realpython.com/python-dicts/)
+
+- [Lists and Tuples in Python](https://realpython.com/python-lists-tuples/)
 
 
 
@@ -127,9 +171,11 @@ If you are a student and if you would like to get your projects added or if you 
 
 <h3>Objects, Classes and modules</h3>
 
+- [Defining Main Functions in Python](https://realpython.com/python-main-function/)
+
+
+
 ***
-
-
 
 
 
@@ -186,8 +232,9 @@ If you are a student and if you would like to get your projects added or if you 
 
 - [Three-Dimensional Plotting in Matplotlib](https://jakevdp.github.io/PythonDataScienceHandbook/04.12-three-dimensional-plotting.html)
 
+- [Interactive Data Visualization in Python With Bokeh](https://realpython.com/python-data-visualization-bokeh/)
 
-
+- [Python Histogram Plotting: NumPy, Matplotlib, Pandas & Seaborn](https://realpython.com/python-histograms/)
 
 
 
@@ -335,11 +382,11 @@ If you are a student and if you would like to get your projects added or if you 
 
 - [What I learned from interviewing at multiple AI companies and start-ups](https://blog.usejournal.com/what-i-learned-from-interviewing-at-multiple-ai-companies-and-start-ups-a9620415e4cc)
 
+- [Data Science Interview Questions](https://365datascience.com/data-science-interview-questions/#2)
+
+- [How to Stand Out in a Python Coding Interview](https://realpython.com/python-coding-interview-tips/)
 
 
-
-- Interview tips
-- Interview preps
 
 ***
 
@@ -376,7 +423,7 @@ If you are a student and if you would like to get your projects added or if you 
 
 - [Fifty Ways to Fix your Data](https://statswithcats.wordpress.com/2010/11/21/fifty-ways-to-fix-your-data/)
 
-
+- [How to Work With a PDF in Python](https://realpython.com/pdf-python/)
 
 - Variable types
 - Missing values
@@ -436,6 +483,7 @@ If you are a student and if you would like to get your projects added or if you 
 
 
 <h3>Accuracy and error types</h3>
+
 - [Writing and Plotting a confusion matrix in Python](https://stackoverflow.com/questions/2148543/how-to-write-a-confusion-matrix-in-python)
 
 - [Confusion Matrix in Machine Learning](https://www.geeksforgeeks.org/confusion-matrix-machine-learning/)
@@ -480,6 +528,7 @@ If you are a student and if you would like to get your projects added or if you 
 
 <h3>Simple Linear Regression with OLS(Ordinary least squares)</h3>
 
+- [Linear Regression in Python](https://realpython.com/linear-regression-in-python/)
 
 ***
 
