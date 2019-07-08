@@ -263,6 +263,7 @@ If you are a student and if you would like to get your projects added or if you 
 
 <h3>🔥 Capstone 1: Analytic Report and Research Proposal</h3>
 
+- [Analysis of the global spice trade, 2007-2017 (Matt Francsis)](https://nbviewer.jupyter.org/github/mkfrancsis/Thinkful_drills/blob/master/Fundamentals%20Capstone%20-%20UN%20Spice%20Trade.ipynb)
 
 ***
 
@@ -311,6 +312,12 @@ If you are a student and if you would like to get your projects added or if you 
 
 <h3>Joins and CTEs</h3>
 
+
+***
+
+<h3>SQL Practice</h3>
+
+- [Mode Analytics](https://mode.com/sql-tutorial/)
 
 
 ***
@@ -374,6 +381,8 @@ If you are a student and if you would like to get your projects added or if you 
 
 
 <h3>🔥 Challenge 2: Narrative analytics and experimentation</h3>
+
+- [Fatal bicycle-car accidents (Matt Francsis)](https://nbviewer.jupyter.org/github/mkfrancsis/Thinkful_drills/blob/master/1.5.1_Unit1_Capstone.ipynb)
 
 
 ***
@@ -496,7 +505,17 @@ If you are a student and if you would like to get your projects added or if you 
 
 <h3>Class Imbalance</h3>
 
+- [8 Tactics to combat class imbalance](https://machinelearningmastery.com/tactics-to-combat-imbalanced-classes-in-your-machine-learning-dataset/)
 
+- [How to handle imbalanced classes](https://elitedatascience.com/imbalanced-classes)
+
+- [Handling imbalanced classes](https://towardsdatascience.com/handling-imbalanced-datasets-in-machine-learning-7a0e84220f28)
+
+- [SMOTE explained for noobs](http://rikunert.com/SMOTE_explained)
+
+- [Imbalanced-learn library (similar functionality to sklearn)](https://imbalanced-learn.readthedocs.io/en/stable/index.html)
+
+- [Review of emsemble modeling for the class imbalance problem](https://sci2s.ugr.es/keel/pdf/algorithm/articulo/2011-IEEE%20TSMC%20partC-%20GalarFdezBarrenecheaBustinceHerrera.pdf)
 
 ***
 
@@ -602,11 +621,13 @@ If you are a student and if you would like to get your projects added or if you 
 
 - [How to Visualize a Decision Tree from a Random Forest](https://towardsdatascience.com/how-to-visualize-a-decision-tree-from-a-random-forest-in-python-using-scikit-learn-38ad2d75f21c)
 
-
+- [A visual intro to Decision Trees](http://www.r2d3.us/visual-intro-to-machine-learning-part-1/)
 
 ***
 
 <h3>Ensemble modeling</h3>
+
+- [Gradient Boosting explained and visualized](http://arogozhnikov.github.io/2016/06/24/gradient_boosting_explained.html)
 
 ***
 
@@ -675,6 +696,10 @@ If you are a student and if you would like to get your projects added or if you 
 
 
 <h3>🔥 Capstone 3: Supervised Learning</h3>
+
+<h4> Past Thinkful Student Capstones</h4>
+
+- [Supervised learning capstone repo (Mike Ricos)](https://github.com/study-groups/ds-projects#supervised-learning-projects)
 
 ***
 
@@ -782,6 +807,10 @@ If you are a student and if you would like to get your projects added or if you 
 
 - [Image classifier using convolutional neural network](https://cv-tricks.com/tensorflow-tutorial/training-convolutional-neural-network-for-image-classification/)
 
+- [3Blue1Brown Youtube series on Neural Networks](https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi)
+
+- [Neural network initialization](http://www.deeplearning.ai/ai-notes/initialization/)
+
 
 ***
 
@@ -797,6 +826,7 @@ If you are a student and if you would like to get your projects added or if you 
 
 <h3>Other terms in neural networks</h3>
 
+- [The neural network zoo](http://www.asimovinstitute.org/neural-network-zoo/)
 
 ***
 
@@ -1203,6 +1233,8 @@ If you are a student and if you would like to get your projects added or if you 
 - [Machine Learning Model for Predicting Click-Through in Hotel Online Ranking](https://towardsdatascience.com/machine-learning-model-for-predicting-click-through-in-hotel-online-ranking-d55fc18c8516)
 
 - [Solving the Kaggle Telco Customer Churn challenge in minutes using AuDaS](https://towardsdatascience.com/solving-the-kaggle-telco-customer-churn-challenge-in-minutes-with-audas-2273fed19961)
+
+- [Thinkful Final Capstone Repo (Mike Ricos)](https://github.com/study-groups/ds-projects#final-capstone)
 
 
 ***
